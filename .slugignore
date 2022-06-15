@@ -1,0 +1,3 @@
+/test /spec /docs /cypress-tests /selenium-tests /doc /tmp/cache /.cache/yarn
+/.semaphore /.rubocop.yml /README.md /Procfile.dev /.editorconfig
+/Dockerfile.dev /docker-entrypoint.sh /docker-compose.yml

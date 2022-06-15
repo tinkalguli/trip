@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "react-toastify/dist/ReactToastify.min.css";
+
+@import "@bigbinary/neetoui";
+
+//Sidebar
+@import "layouts/sidebar";
+
+//Components
+@import "components/notes";
+
+// Alert
+@import "overlays/alert";

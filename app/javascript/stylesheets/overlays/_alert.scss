@@ -1,0 +1,14 @@
+$btn-text-color: #fff;
+$btn-bg-color: #2f3941;
+$btn-bg-ative-color: #49545c;
+
+.neeto-ui-btn--style-danger {
+  color: $btn-text-color;
+  background-color: $btn-bg-color;
+}
+
+.neeto-ui-btn--style-danger:active,
+.neeto-ui-btn--style-danger:hover:not(:disabled) {
+  color: $btn-text-color;
+  background-color: $btn-bg-ative-color;
+}
